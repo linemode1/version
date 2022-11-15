@@ -1,6 +1,6 @@
 package main
 
 
-var (
-  v []string{"12.19.0"}
-)
+var a string
+
+a = "12.19.0"
